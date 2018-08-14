@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="size_title">10.7sp</dimen>
+    <dimen name="size_standard">9.3sp</dimen>
+    <dimen name="size_small">8sp</dimen>
+
+    <dimen name="item_padding">8dp</dimen>
+    <dimen name="item_height">50.7dp</dimen>
+    <dimen name="item_image_width">31.1dp</dimen>
+    <dimen name="item_image_height">32dp</dimen>
+
+    <dimen name="detail_image_height">109.3dp</dimen>
+    <dimen name="line_height">0.7dp</dimen>
+
+    <dimen name="image_banner_height">136dp</dimen>
+
+    <dimen name="image_banner_height_tab">160dp</dimen>
+    <dimen name="image_banner_width_tab">286dp</dimen>
+
+    <dimen name="item_image_radius">3.3dp</dimen>
+
+
+</resources>
